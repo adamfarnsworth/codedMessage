@@ -18,10 +18,16 @@ To help you identify the coded broadcasts, Bunny HQ has agreed to the following 
 Remember, to throw off Lambda's spies, Bunny HQ might include more than one contiguous sublist of a number broadcast that can be summed up to the key. You know that the message will always be hidden in the first sublist that sums up to the key, so answer(l, t) should only return that sublist.
 
 TEST CASES
+
 l = [4, 3, 10, 2, 8]
+
 t = 12
+
 answer(l,t) = [2, 3]
 
+
 l = [1, 2, 3, 4]
+
 t = 15
+
 answer(l,t) = [-1, -1]

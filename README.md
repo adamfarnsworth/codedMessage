@@ -19,11 +19,11 @@ Remember, to throw off Lambda's spies, Bunny HQ might include more than one cont
 
 TEST CASES
 
-l = [4, 3, 10, 2, 8]
-t = 12
+l = [4, 3, 10, 2, 8]  
+t = 12  
 answer(l,t) = [2, 3]
 
 
-l = [1, 2, 3, 4]
-t = 15
-answer(l,t) = [-1, -1]
+l = [1, 2, 3, 4]  
+t = 15  
+answer(l,t) = [-1, -1]  
